@@ -1,0 +1,50 @@
+mmaryraphaella@gmail.com
+
+
+overlord
+parasyte
+
+Material
+Sword Art Online
+Blade of Demon Demon
+A Scientific Super Electromagnetic Cannon
+Attacking Giant
+Crimson Pupil
+Magical Puella Magi
+Town Soul Street
+Sin Crown
+Sky Realm
+Naruto
+One-Punch Superman
+Sirius
+RWBY
+Assassin Wu Liu Qi
+One Piece
+Rape
+League of Legends
+JOJO
+Full
+time Master
+DNF
+Monogatari Series
+Collapse 3
+Life in a different world from scratch
+Fantasy Front
+Kabaneri of the Iron Fortress
+Black Contractor
+Beyond the Realm
+Yan Yan Fire Brigade
+Death
+Yin Yang Division
+Tomorrow's Ark
+Spirit Power 
+Noperrabou
+e78sy8
+
+
+from selenium import webdriver
+browser=webdriver.Firefox()
+browser.get("https://google.com")
+browser.execute_script("window.open('https://youtube.com')")
+browser.switch_to_window(browser.window_handles[-1])
+

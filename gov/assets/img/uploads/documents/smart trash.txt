@@ -1,0 +1,47 @@
+SmartTrash
+
+
+Inspiration
+
+The inspiration for this project came from the growing pollution in the society and how it's causing harm to the environment. Although, LAWMA is doing a well appreciated job but we can contribute to this through SmartTrash
+
+
+
+The Problem
+
+About 32 million tons of waste is being generated annually in Nigeria but only less than 20% is collected and recycled. The main cause of this low amount is difficulties in separating waste. LAWMA came up with a solution to this by introducing bins for different kinds of waste each unique by their color. So a particular bin is for paper while another is for plastic but this only increased the amount of waste collected to about 25% because people still ignored this separation but this shows progress using this system.
+
+
+
+The Solution
+
+SmartTrash is an artificial intelligence powered trash bin that is programmed to accept only one kind of waste. So if we place 3 smart trash in a place, one accepting paper, one accepting plastic and the rest only accepting metallic waste. When a user places a paper in the paper bin the trash will accept it, but if plastic is placed in the metallic trash bin it will redirect the user to put it in the plastic bin.
+
+
+
+The Benefits
+
+This will help waste management systems in the country separate waste further and increase the amount of waste that will be collected annually. Because the only flaw in the system introduced by LAWMA is ensuring that correct waste is placed in the right bin and this is exactly what we are solving.
+
+
+
+Who would use it?
+
+1. Government agencies for waste management e.g LAWMA
+
+2. The average household
+
+
+
+How it will be built
+
+Each trash bin will be equipped with sensors that will be able to capture essential data about the trash e.g taking a picture of it and then passing that data to a software program powered with artificial intelligence that has been trained to identify and classify the kind of waste based on past data and then confirm if it is the same as the type the bin is accepting. If it is the same the system accepts it, else it rejects it.
+
+
+
+Current Progress
+
+Currently we have been able to train a deep learning model that is able to identify and classify 6 different types of waste with up to 84% accuracy beating the current method of waste separation which is only 20% accurate. We also have a web application to show our AI performance which will be displayed at the finals if we are selected as finalists.
+
+
+https://www.kaggle.com/asdasdasasdas/garbage-classification
